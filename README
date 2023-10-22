@@ -13,7 +13,7 @@ O CifraMestre é um gerador de senhas que permite aos usuários personalizar sua
 - Python 3.x
 
 ## Como Usar
-1. Clone o repositório: `git clone https://github.com/seu-usuario/CifraMestre.git`
+1. Clone o repositório: `git clone https://github.com/clerdomy/CifraMestre.git`
 2. Navegue até o diretório do projeto: `cd CifraMestre`
 3. Instale as dependências: `pip install -r requirements.txt` (se houver algum arquivo `requirements.txt`).
 4. Execute o aplicativo: `python main.py`
