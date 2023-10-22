@@ -1,0 +1,29 @@
+# CifraMestre
+
+## Descrição
+O CifraMestre é um gerador de senhas que permite aos usuários personalizar suas senhas com opções como comprimento desejado, inclusão de números e caracteres especiais.
+
+## Funcionalidades
+- Geração de senhas personalizadas.
+- Opções para incluir ou excluir números e caracteres especiais.
+- Interface gráfica simples usando Tkinter.
+- Copiar senha gerada para a área de transferência.
+
+## Pré-requisitos
+- Python 3.x
+
+## Como Usar
+1. Clone o repositório: `git clone https://github.com/seu-usuario/CifraMestre.git`
+2. Navegue até o diretório do projeto: `cd CifraMestre`
+3. Instale as dependências: `pip install -r requirements.txt` (se houver algum arquivo `requirements.txt`).
+4. Execute o aplicativo: `python main.py`
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou reportar problemas.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](MIT-LICENSE.txt) para detalhes.
+
+---
+
+**Nota:** Personalize este README conforme necessário, adicionando informações específicas sobre como configurar o ambiente, usar o aplicativo, etc. Inclua também detalhes sobre a licença escolhida para o projeto e como as contribuições são tratadas.
